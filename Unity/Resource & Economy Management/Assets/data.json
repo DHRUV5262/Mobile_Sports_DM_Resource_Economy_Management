@@ -1,0 +1,10 @@
+{
+  "wallet": {
+    "coins": 2430,
+    "gems": 15,
+    "credits": 40
+  },
+  "forecast": {
+    "net_delta": -2800
+  }
+}
